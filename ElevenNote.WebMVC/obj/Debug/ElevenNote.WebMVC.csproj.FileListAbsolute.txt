@@ -1,5 +1,3 @@
-D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.csproj.AssemblyReference.cache
-D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.csproj.CoreCompileInputs.cache
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\ElevenNote.WebMVC.dll.config
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\ElevenNote.WebMVC.dll
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\ElevenNote.WebMVC.pdb
@@ -74,7 +72,10 @@ D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\b
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\Microsoft.Web.Infrastructure.dll
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\Newtonsoft.Json.dll
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\Owin.dll
+D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\System.Net.Http.Formatting.dll
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\System.Web.Helpers.dll
+D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\System.Web.Http.dll
+D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\System.Web.Http.WebHost.dll
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\System.Web.Mvc.dll
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\System.Web.Optimization.dll
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\System.Web.Razor.dll
@@ -88,6 +89,9 @@ D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\b
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\ElevenNote.Models.dll.config
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\ElevenNote.Services.pdb
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\ElevenNote.Services.dll.config
+D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\System.Net.Http.Formatting.xml
+D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\System.Web.Http.xml
+D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\System.Web.Http.WebHost.xml
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\System.Web.Helpers.xml
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\System.Web.Mvc.xml
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\System.Web.Optimization.xml
@@ -112,6 +116,8 @@ D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\b
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\Microsoft.Owin.Security.OAuth.xml
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.csproj.AssemblyReference.cache
+D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.csproj.CoreCompileInputs.cache
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.csproj.CopyComplete
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.dll
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.pdb

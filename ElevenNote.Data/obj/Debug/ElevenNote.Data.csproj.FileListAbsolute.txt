@@ -1,5 +1,3 @@
-D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.AssemblyReference.cache
-D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CoreCompileInputs.cache
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.Data\bin\Debug\ElevenNote.Data.dll.config
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.Data\bin\Debug\ElevenNote.Data.dll
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.Data\bin\Debug\ElevenNote.Data.pdb
@@ -7,10 +5,20 @@ D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.Data\bin
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.Data\bin\Debug\EntityFramework.SqlServer.dll
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.Data\bin\Debug\Newtonsoft.Json.dll
+D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.Data\bin\Debug\System.Net.Http.Formatting.dll
+D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.Data\bin\Debug\System.Web.Http.dll
+D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.Data\bin\Debug\System.Web.Http.WebHost.dll
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.Data\bin\Debug\EntityFramework.xml
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.Data\bin\Debug\EntityFramework.SqlServer.xml
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.Data\bin\Debug\Newtonsoft.Json.xml
+D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.Data\bin\Debug\System.Net.Http.Formatting.xml
+D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.Data\bin\Debug\System.Web.Http.xml
+D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.Data\bin\Debug\System.Web.Http.WebHost.xml
+D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.AssemblyReference.cache
+D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CoreCompileInputs.cache
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 D:\ElevenFiftyProjects\RedBadge\ElevenNote\ElevenNote.WebMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
